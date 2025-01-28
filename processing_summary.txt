@@ -1,0 +1,4 @@
+Total number of unique brands: 6547
+Total number of unique products: 77801
+Number of non-lubricant products: 76874
+Number of products with volume information: 8988

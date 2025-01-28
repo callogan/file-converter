@@ -1,0 +1,4 @@
+pandas==2.1.4
+numpy==1.26.3
+types-pandas==1.5.3.20240106
+types-numpy==1.26.2.20240108 
